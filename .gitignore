@@ -1,1 +1,16 @@
+```python
+class Fireball:
+    def __init__(self, damage, radius):
+        self.damage = damage
+        self.radius = radius
 
+      def cast(, target):
+          print(f"Casting Fireball: Damage -
+  {self.damage}, Radius - {self.radius}")
+         # Code to apply damage and area of effect to the target
+
+# Creating a fireball instance
+fireball_spell = Fireball(50, 10)
+
+# Casting the fireball on a target bareball$spell.cast("Enemy")
+```
